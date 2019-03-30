@@ -1,0 +1,2 @@
+# NotesGan
+Tugas Mobile Lanjut
